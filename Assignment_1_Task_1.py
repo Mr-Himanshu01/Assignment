@@ -2,7 +2,16 @@
 """ This program do the Basic Mathematical Operations like 
 Addition, Subtraction, Multiplication and Division.
 - Here User have to give inputs of the 2 number on which he wants to do the Mathematical Operations.
-- Example : 
+- Example : Enter the first number: x
+            Enter the second number: y
+
+            Addition: x+y
+            Subtraction: x-y
+            Multiplication: x*y
+            Division: x/y
+
+"""
+            
 
 First_Number = int(input("Enter the first number:"))
 Second_Number = int(input("Enter the second number:"))
