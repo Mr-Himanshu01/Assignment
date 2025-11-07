@@ -1,4 +1,8 @@
 # Task 1: Basic Mathematical Operations
+""" This program do the Basic Mathematical Operations like 
+Addition, Subtraction, Multiplication and Division.
+- Here User have to give inputs of the 2 number on which he wants to do the Mathematical Operations.
+- Example : 
 
 First_Number = int(input("Enter the first number:"))
 Second_Number = int(input("Enter the second number:"))
